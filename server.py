@@ -24,7 +24,7 @@ while True:
         print(f'Received: {request}')
 
     myResponse=input('What do you want to send: ')
-    if myResponse==' ':
+    if myResponse=='/recent':
         request=client_socket.recv(1024)
         request=request.decode("utf-8")
         print(f'Most current message from the other user: {request}')
