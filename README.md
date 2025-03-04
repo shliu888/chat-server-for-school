@@ -6,5 +6,5 @@
 
 Commands:
 
-/recent: View the most recent message 
+/recent: View the most recent message        
 /exit: Exit the chat
