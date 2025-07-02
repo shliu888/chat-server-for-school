@@ -15,7 +15,7 @@ Commands:
 1. Download the Git for Windows installer from git-scm.com         
 2. Run 'Git-<version>-64-bit.exe /VERYSILENT /NORESTART /SILENT /SP-' in Command Prompt      
 3. Verify with 'git --version'
-4. Download this repo with 'git clone https://github.com/shliu888/chat-server-for-school           
+4. Download this repo with 'git clone https://github.com/shliu888/chat-server-for-school.git'           
 5. After downloading this repo, use "cd" to see which directory you are in. **Run the script only from this directory**     
 6. Run 'python3 install_netcat.py'
 7. Run 'ipconfig' 
