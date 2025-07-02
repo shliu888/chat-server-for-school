@@ -21,4 +21,4 @@ Commands:
 7. Run 'ipconfig' 
 8. Run 'python3 server.py'      
 9. Enter the IP of your computer when prompted         
-10. On the computer you want to communicate with, enter "nc [server ip] 8000"     
+10. On the computer you want to communicate with, enter "nc [server ip] 8000" (install Netcat if needed)      
