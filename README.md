@@ -9,3 +9,9 @@ Commands:
 
 /recent: View the most recent message        
 /exit: Exit the chat
+
+**For Windows computers**:    
+
+1. After downloading this repo, use "cd" to see which directory you are in. **Run the script only from this directory**     
+2. Run install_netcat.py     
+3. Run 
